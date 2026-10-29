@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 27.0//EN
+N:Fuller;Scott;;;
+FN:Scott Fuller
+ORG:Tempesta Capital Management ;
+TEL;type=WORK;type=VOICE;type=pref:020 3301 5951
+TEL:+447585705229
+item1.URL;type=pref:https://tempestacap.com/home
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
